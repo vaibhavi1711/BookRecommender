@@ -4,6 +4,7 @@ This project is an intelligent, emotion-aware book recommender system. It allows
 
 🔑 Key Features
 🧹 Text Data Cleaning & Exploration
+<br>
 Notebook: data-exploration.ipynb
 
 🧠 Semantic Vector Search
