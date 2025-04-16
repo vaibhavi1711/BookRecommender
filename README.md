@@ -4,6 +4,8 @@ This project is an intelligent, emotion-aware book recommender system. It allows
 
 🔑 Key Features
 <br>
+
+<br>
 🧹 Text Data Cleaning & Exploration
 <br>
 Notebook: data-exploration.ipynb
@@ -37,22 +39,24 @@ Script: gradio-dashboard.py
 This project requires the following packages:
 <br>
 
-kagglehub
+-kagglehub
 <br>
-pandas
+-pandas
 <br>
-matplotlib
+-matplotlib
 <br>
-seaborn
+-seaborn
 <br>
-python-dotenv
+-python-dotenv
 <br>
-langchain-community
+-langchain-community
 <br>
-langchain-opencv
+-langchain-opencv
 <br>
-langchain-chroma
+-langchain-chroma
 <br>
-transformers
-gradio
-ipywidgets
+-transformers
+<br>
+-gradio
+<br>
+-ipywidgets
