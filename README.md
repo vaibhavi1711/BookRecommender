@@ -5,11 +5,10 @@ This project is an intelligent, emotion-aware book recommender system. It allows
 🔑 Key Features
 <br>
 
-<br>
 🧹 Text Data Cleaning & Exploration
 <br>
 Notebook: data-exploration.ipynb
-
+<br>
 🧠 Semantic Vector Search
 <br>
 Build a vector database using OpenAI embeddings to retrieve books similar to user queries.
